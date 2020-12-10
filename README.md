@@ -7,7 +7,7 @@ src
     -question2_4.py  設問4用  
 
 requirements.txt    環境情報  
-result.md   テストデータを用いてプログラムを動かした結果  
+result.doc   テストデータを用いてプログラムを動かした結果  
 log.csv     テストデータ  
 
 # 使い方  
