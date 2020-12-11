@@ -10,7 +10,7 @@ result.doc   テストデータを用いてプログラムを動かした結果
 log.csv     テストデータ  
 
 # 使い方  
-1. 仮想環境下で`./`  
+1. 仮想環境下で`./setup.sh`  
 2. srcに移動  `cd src`
 3. `python question1.py`  
 を実行する
